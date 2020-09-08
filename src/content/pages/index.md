@@ -8,4 +8,4 @@ cta:
   ctaText: Know more
   ctaLink: /about
 ---
-Gianluca Arbo is a web developer
+Gianluca Arbo is a web developer.
