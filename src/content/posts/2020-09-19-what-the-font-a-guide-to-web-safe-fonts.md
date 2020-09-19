@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: What the Font!? A guide to web safe fonts.
+title: What the Font!? A Guide to Web Safe Fonts.
 slug: /what-the-font
 date: 2020-09-19 19:32
 description: web safe fonts
