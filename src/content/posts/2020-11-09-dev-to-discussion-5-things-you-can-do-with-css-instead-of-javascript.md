@@ -12,7 +12,7 @@ description: Dev.to Discussion 1
 5. How many reactions: 178 hearts, 48 unicorns, 323 saved
 6. How many comments: 5 comments
 7. If there are some, what # keywords are used: #css #javascript
-8. The url link directly to the article: [https://dev.to/bnevilleoneill/5-things-you-can-do-with-css-instead-of-javascript-975 (Links to an external site.)](https://dev.to/bnevilleoneill/5-things-you-can-do-with-css-instead-of-javascript-975)
+8. The url link directly to the article: <https://dev.to/bnevilleoneill/5-things-you-can-do-with-css-instead-of-javascript-975>
 
 ### **Discuss Part 1**
 
@@ -24,9 +24,9 @@ description: Dev.to Discussion 1
 ### **Discuss Part 2**
 
 1. The link to the original pen: \
-   [https://codepen.io/HZaccaro/pen/zvrgLb (Links to an external site.)](https://codepen.io/HZaccaro/pen/zvrgLb)
+   <https://codepen.io/HZaccaro/pen/zvrgLb>
 2. The link to your pen: \
-   [https://codepen.io/G_Arbo/pen/jOreyVL (Links to an external site.)](https://codepen.io/G_Arbo/pen/jOreyVL)
+   <https://codepen.io/G_Arbo/pen/jOreyVL>
 3. What is the purpose of the pen?\
    The original pen showed how to make something scroll smoothly using JavaScript, while my pen showed how much easier it was to do that with just CSS. Although, admittedly it is less configurable.
 4. Is it successful to its purpose? 5. Why?\
